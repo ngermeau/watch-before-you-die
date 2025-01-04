@@ -64,10 +64,6 @@ This repository is the code behind [https://watchbeforeyoudie.com](https://watch
 [] la vita es bella
 [] amen
 
-## Still todo
-[ ] Not super clean animation when loading of images
-[ ] Add Seo
-[ ] Snap to scroll for mobile
 
 ## Origins & License
 

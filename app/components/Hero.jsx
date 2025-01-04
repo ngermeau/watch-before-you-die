@@ -24,33 +24,25 @@ const HeroComponent = () => {
       )}
       {!isVisible && (
         <div className="about-panel">
-          <p className="p-3 text-text text-lg sm:text-base">
+          <p className="p-3 text-lg">
             If you feel that we share the same kind of{" "}
             <span className="text-title">taste</span> and think of any
             worthwhile addition to this list, please feel free to{" "}
             <a
               className="underline"
-              href="https://github.com/ngermeau/wbyd-client/issues/new"
+              href="https://github.com/ngermeau/watch-before-you-die/issues/new"
             >
               send a request.
             </a>
           </p>
           <p className="p-3">
-            Made with{" "}
-            <img
-              className="w-5 inline-block m-1"
-              src="/public/images/heart.png"
-            />{" "}
-            on
+            Made on{" "}
             <a
               href="https://github.com/ngermeau/wbyd-client"
               target="_blank"
               rel="noreferrer noopener"
             >
-              <img
-                className="w-6 inline-block m-1"
-                src="/public/images/heart.png"
-              />
+              <img className="w-6 inline-block m-1" src="images/github.png" />
             </a>
           </p>
         </div>
