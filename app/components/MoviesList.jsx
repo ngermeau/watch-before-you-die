@@ -4,10 +4,11 @@ import { Fragment, useEffect, useRef, useState } from "react";
 
 const MoviesList = (props) => {
   const moviesList = props.movies;
-  const take = 4;
-  const [loaded, setLoaded] = useState(0);
-  const [movies, setMovies] = useState([]);
-  const observed = useRef();
+  const take = 2;
+  let [loaded, setLoaded] = useState(0);
+  let [movies, setMovies] = useState([]);
+  let observer = useRef(null);
+  let observed = useRef();
 
   const callback = (entries) => {
     if (entries[0].isIntersecting) {
@@ -15,20 +16,24 @@ const MoviesList = (props) => {
     }
   };
 
-  // trigger only once when the page is rendered to create the intersection observer
-  // and observe the ref
+  // trigger only once when the initial page is rendered to create the intersection observer
+  // which observe the last div of the list
   useEffect(() => {
-    console.log("creating intersection observer");
-    const observer = new IntersectionObserver(callback, { threshold: 0.3 });
-    observer.observe(observed.current);
+    console.log("Creating intersection observer");
+    observer.current = new IntersectionObserver(callback, { threshold: 0.3 });
+    observer.current.observe(observed.current);
   }, []);
 
-  // trigger when loaded is updated by the intersection observer callback
+  // trigger once after the initial page is rendered
+  // and when loaded is updated by the intersection observer callback
   useEffect(() => {
+    console.log("Loading movies from " + loaded + " to " + (loaded + take));
     setMovies((prevMovies) => [
       ...prevMovies,
       ...moviesList.slice(loaded, loaded + take),
     ]);
+    observer.current.unobserve(observed.current); // needed to trigger the callback multiple times at the initial render if the
+    observer.current.observe(observed.current); // amount of movies received is not enough to hide the last div from the intersection observer
   }, [loaded]);
 
   return (
