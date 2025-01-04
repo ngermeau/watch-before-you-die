@@ -1,0 +1,1548 @@
+[
+  {
+    "id": 1,
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "director": "Stanley Kubrick",
+    "runningTime": "2h 29min",
+    "trailerLink": "https://www.youtube.com/watch?v=Z2UWOeBcsJI",
+    "thumbPath": "2001-a-space-odyssey.jpg",
+    "categories": [
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Sci-Fi"
+      },
+      {
+        "name": "Mystery"
+      }
+    ],
+    "imdbScore": 8.3,
+    "synopsis": "A space-opera spanning the dawn of man to humanity reaching the stars, 2001: A Space Odyssey tells the story of the Black Monolith, humanity's evolution and the rise of A.I.'s ultimate superintelligence HAL 9000."
+  },
+  {
+    "id": 2,
+    "title": "Die Hard",
+    "year": 1988,
+    "director": "John McTiernan",
+    "runningTime": "2h 12min",
+    "trailerLink": "https://www.youtube.com/watch?v=2TQ-pOvI6Xo",
+    "thumbPath": "Die-Hard.jpg",
+    "categories": [
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.2,
+    "synopsis": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her office, the entire building is overtaken by a group of terrorists."
+  },
+  {
+    "id": 3,
+    "title": "Lost in Translation",
+    "year": 2003,
+    "director": "Sofia Coppola",
+    "runningTime": "1h 42min",
+    "trailerLink": "https://www.youtube.com/watch?v=W6iVPCRflQM",
+    "thumbPath": "Lost-in-Translation.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Romance"
+      }
+    ],
+    "imdbScore": 7.7,
+    "synopsis": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo."
+  },
+  {
+    "id": 4,
+    "title": "Metropolis",
+    "year": 1927,
+    "director": "Fritz Lang",
+    "runningTime": "2h 33min",
+    "trailerLink": "https://www.youtube.com/watch?v=ZSExdX0tds4",
+    "thumbPath": "Metropolis.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Sci-Fi"
+      }
+    ],
+    "imdbScore": 8.3,
+    "synopsis": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences."
+  },
+  {
+    "id": 5,
+    "title": "The Great Escape",
+    "year": 1963,
+    "director": "John Sturges",
+    "runningTime": "2h 52min",
+    "trailerLink": "https://www.youtube.com/watch?v=rn9WMGZCgYY",
+    "thumbPath": "The-great-escape.jpg",
+    "categories": [
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "History"
+      }
+    ],
+    "imdbScore": 8.2,
+    "synopsis": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II."
+  },
+  {
+    "id": 6,
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "director": "Stanley Kubrick",
+    "runningTime": "2h 16min",
+    "trailerLink": "https://www.youtube.com/watch?v=SPRzm8ibDQ8",
+    "thumbPath": "a-clockwork-orange.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Sci-Fi"
+      }
+    ],
+    "imdbScore": 8.3,
+    "synopsis": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned."
+  },
+  {
+    "id": 7,
+    "title": "A Prophet",
+    "year": 2009,
+    "director": "Jacques Audiard",
+    "runningTime": "2h 35min",
+    "trailerLink": "https://www.youtube.com/watch?v=zN5Fbluu0YA",
+    "thumbPath": "a-prophet.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 7.9,
+    "synopsis": "A young Arab man is sent to a French prison, where he becomes a mafia kingpin."
+  },
+  {
+    "id": 8,
+    "title": "Akira",
+    "year": 1988,
+    "director": "Katsuhiro Otomo",
+    "runningTime": "2h 4min",
+    "trailerLink": "https://www.youtube.com/watch?v=7GqLr9InztE",
+    "thumbPath": "akira.jpg",
+    "categories": [
+      {
+        "name": "Animation"
+      },
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 8.0,
+    "synopsis": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics."
+  },
+  {
+    "id": 9,
+    "title": "Alien",
+    "year": 1979,
+    "director": "Ridley Scott",
+    "runningTime": "1h 57min",
+    "trailerLink": "https://www.youtube.com/watch?v=bEVY_lonKf4",
+    "thumbPath": "alien-1.jpg",
+    "categories": [
+      {
+        "name": "Horror"
+      },
+      {
+        "name": "Sci-Fi"
+      }
+    ],
+    "imdbScore": 8.4,
+    "synopsis": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun."
+  },
+  {
+    "id": 10,
+    "title": "Amadeus",
+    "year": 1984,
+    "director": "Milos Forman",
+    "runningTime": "2h 40min",
+    "trailerLink": "https://www.youtube.com/watch?v=yIzhAKtEzY0",
+    "thumbPath": "amadeus.jpg",
+    "categories": [
+      {
+        "name": "Biography"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "History"
+      }
+    ],
+    "imdbScore": 8.3,
+    "synopsis": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him."
+  },
+  {
+    "id": 11,
+    "title": "American Psycho",
+    "year": 2000,
+    "director": "Mary Harron",
+    "runningTime": "1h 41min",
+    "trailerLink": "https://www.youtube.com/watch?v=2GIsExb5jJU",
+    "thumbPath": "american-psycho.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 7.6,
+    "synopsis": "A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies."
+  },
+  {
+    "id": 12,
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "director": "Francis Ford Coppola",
+    "runningTime": "2h 27min",
+    "trailerLink": "https://www.youtube.com/watch?v=FTjG-Aux_yQ",
+    "thumbPath": "apocalypse-now.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "War"
+      }
+    ],
+    "imdbScore": 8.4,
+    "synopsis": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god."
+  },
+  {
+    "id": 13,
+    "title": "Bagdad Cafe",
+    "year": 1987,
+    "director": "Percy Adlon",
+    "runningTime": "1h 35min",
+    "trailerLink": "https://www.youtube.com/watch?v=esHNTVW1sF0",
+    "thumbPath": "bagdad-cafe.jpg",
+    "categories": [
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 7.4,
+    "synopsis": "A lonely German woman ends up in the most desolate motel on Earth and decides to make it brighter."
+  },
+  {
+    "id": 14,
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "director": "Stanley Kubrick",
+    "runningTime": "3h 4min",
+    "trailerLink": "https://www.youtube.com/watch?v=MeGX4me0Y2c",
+    "thumbPath": "barry-lyndon.jpg",
+    "categories": [
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "History"
+      }
+    ],
+    "imdbScore": 8.1,
+    "synopsis": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England."
+  },
+  {
+    "id": 15,
+    "title": "Blade Runner",
+    "year": 1982,
+    "director": "Ridley Scott",
+    "runningTime": "1h 57min",
+    "trailerLink": "https://www.youtube.com/watch?v=eogpIG53Cis",
+    "thumbPath": "blade-runner.jpg",
+    "categories": [
+      {
+        "name": "Sci-Fi"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.1,
+    "synopsis": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator."
+  },
+  {
+    "id": 16,
+    "title": "Blue Velvet",
+    "year": 1986,
+    "director": "David Lynch",
+    "runningTime": "2h 0min",
+    "trailerLink": "https://www.youtube.com/watch?v=k_BybDB_phY",
+    "thumbPath": "blue-velvet.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Mystery"
+      }
+    ],
+    "imdbScore": 7.7,
+    "synopsis": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child."
+  },
+  {
+    "id": 17,
+    "title": "Brazil",
+    "year": 1985,
+    "director": "Terry Gilliam",
+    "runningTime": "2h 22min",
+    "trailerLink": "https://www.youtube.com/watch?v=4Wh2b1eZFUM",
+    "thumbPath": "brazil.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Sci-Fi"
+      }
+    ],
+    "imdbScore": 7.9,
+    "synopsis": "A bureaucrat, in a retro-future world, tries to correct an administrative error and becomes an enemy of the state."
+  },
+  {
+    "id": 18,
+    "title": "Breaking the Waves",
+    "year": 1996,
+    "director": "Lars von Trier",
+    "runningTime": "2h 39min",
+    "trailerLink": "https://www.youtube.com/watch?v=l6ZZZQjgJL0",
+    "thumbPath": "breaking-the-waves.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Romance"
+      }
+    ],
+    "imdbScore": 7.8,
+    "synopsis": "Oilman Jan is paralyzed in an accident. His wife, who prayed for his return, feels guilty; even more, when Jan urges her to have sex with another."
+  },
+  {
+    "id": 19,
+    "title": "Casablanca",
+    "year": 1942,
+    "director": "Michael Curtiz",
+    "runningTime": "1h 42min",
+    "trailerLink": "https://www.youtube.com/watch?v=BkL9l7qovsE",
+    "thumbPath": "casablanca.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Romance"
+      },
+      {
+        "name": "War"
+      }
+    ],
+    "imdbScore": 8.5,
+    "synopsis": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco."
+  },
+  {
+    "id": 20,
+    "title": "Chinatown",
+    "year": 1974,
+    "director": "Roman Polanski",
+    "runningTime": "2h 10min",
+    "trailerLink": "https://www.youtube.com/watch?v=3aifeXlnoqY",
+    "thumbPath": "chinatown.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Mystery"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.2,
+    "synopsis": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder."
+  },
+  {
+    "id": 21,
+    "title": "City of God",
+    "year": 2002,
+    "director": "Fernando Meirelles",
+    "runningTime": "2h 10min",
+    "trailerLink": "https://www.youtube.com/watch?v=ioUE_5wpg_E",
+    "thumbPath": "city-of-god.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 8.6,
+    "synopsis": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+  },
+  {
+    "id": 22,
+    "title": "Clerks",
+    "year": 1994,
+    "director": "Kevin Smith",
+    "runningTime": "1h 32min",
+    "trailerLink": "https://www.youtube.com/watch?v=4cVCqkROLcQ",
+    "thumbPath": "clerks.jpg",
+    "categories": [
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 7.7,
+    "synopsis": "A day in the lives of two convenience clerks named Dante and Randal as they annoy customers, discuss movies, and play hockey on the store roof."
+  },
+  {
+    "id": 23,
+    "title": "Das Boot",
+    "year": 1981,
+    "director": "Wolfgang Petersen",
+    "runningTime": "2h 29min",
+    "trailerLink": "https://www.youtube.com/watch?v=GCj9E6fEihs",
+    "thumbPath": "das-boot.jpg",
+    "categories": [
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.3,
+    "synopsis": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror."
+  },
+  {
+    "id": 24,
+    "title": "Dead Man",
+    "year": 1995,
+    "director": "Jim Jarmusch",
+    "runningTime": "2h 1min",
+    "trailerLink": "https://www.youtube.com/watch?v=ct89Jvt6s4M",
+    "thumbPath": "deadman.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Fantasy"
+      },
+      {
+        "name": "Western"
+      }
+    ],
+    "imdbScore": 7.6,
+    "synopsis": "On the run after murdering a man, accountant William Blake encounters a strange Native American man named Nobody who prepares him for his journey into the spiritual world."
+  },
+  {
+    "id": 25,
+    "title": "Dirty Harry",
+    "year": 1971,
+    "director": "Don Siegel",
+    "runningTime": "1h 42min",
+    "trailerLink": "https://www.youtube.com/watch?v=VExw77xJsAY",
+    "thumbPath": "dirty-harry.jpg",
+    "categories": [
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 7.7,
+    "synopsis": "When a madman calling himself 'the Scorpio Killer' menaces the city, tough-as-nails San Francisco Police Inspector Harry Callahan is assigned to track down and ferret out the crazed psychopath."
+  },
+  {
+    "id": 26,
+    "title": "Dr. Strangelove",
+    "year": 1964,
+    "director": "Stanley Kubrick",
+    "runningTime": "1h 35min",
+    "trailerLink": "https://www.youtube.com/watch?v=1gXY3kuDvSU",
+    "thumbPath": "dr-strangelove.jpg",
+    "categories": [
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "War"
+      }
+    ],
+    "imdbScore": 8.4,
+    "synopsis": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically try to stop."
+  },
+  {
+    "id": 27,
+    "title": "Easy Rider",
+    "year": 1969,
+    "director": "Dennis Hopper",
+    "runningTime": "1h 35min",
+    "trailerLink": "https://www.youtube.com/watch?v=Uf4g1DESH4M",
+    "thumbPath": "easy-rider.jpg",
+    "categories": [
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 7.3,
+    "synopsis": "Two bikers head from L.A. to New Orleans through the open country and desert lands, and along the way they meet a man who bridges a counter-culture gap they are unaware of."
+  },
+  {
+    "id": 28,
+    "title": "Eraserhead",
+    "year": 1977,
+    "director": "David Lynch",
+    "runningTime": "1h 29min",
+    "trailerLink": "https://www.youtube.com/watch?v=dU7OqGCIcak",
+    "thumbPath": "eraserhead.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Horror"
+      }
+    ],
+    "imdbScore": 7.4,
+    "synopsis": "Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child."
+  },
+  {
+    "id": 29,
+    "title": "Fargo",
+    "year": 1996,
+    "director": "Joel Coen, Ethan Coen",
+    "runningTime": "1h 38min",
+    "trailerLink": "https://www.youtube.com/watch?v=h2tY82z3xXU",
+    "thumbPath": "fargo.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.1,
+    "synopsis": "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson."
+  },
+  {
+    "id": 30,
+    "title": "Fear and Loathing in Las Vegas",
+    "year": 1998,
+    "director": "Terry Gilliam",
+    "runningTime": "1h 58min",
+    "trailerLink": "https://www.youtube.com/watch?v=0nU7dC9bIDg",
+    "thumbPath": "fear-and-loathing-in-las-vegas.jpg",
+    "categories": [
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 7.6,
+    "synopsis": "An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades."
+  },
+  {
+    "id": 31,
+    "title": "Fight Club",
+    "year": 1999,
+    "director": "David Fincher",
+    "runningTime": "2h 19min",
+    "trailerLink": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
+    "thumbPath": "fight-club.webp",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.8,
+    "synopsis": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+  },
+  {
+    "id": 32,
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "director": "Stanley Kubrick",
+    "runningTime": "1h 56min",
+    "trailerLink": "https://www.youtube.com/watch?v=x9f6JaaX7Wg",
+    "thumbPath": "full-metal-jacket.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "War"
+      }
+    ],
+    "imdbScore": 8.3,
+    "synopsis": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue."
+  },
+  {
+    "id": 33,
+    "title": "Ghost in the Shell",
+    "year": 1995,
+    "director": "Mamoru Oshii",
+    "runningTime": "1h 23min",
+    "trailerLink": "https://www.youtube.com/watch?v=p2MEaROKjaE",
+    "thumbPath": "ghost-in-the-shell.jpg",
+    "categories": [
+      {
+        "name": "Animation"
+      },
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Sci-Fi"
+      }
+    ],
+    "imdbScore": 8.0,
+    "synopsis": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master."
+  },
+  {
+    "id": 34,
+    "title": "Goodfellas",
+    "year": 1990,
+    "director": "Martin Scorsese",
+    "runningTime": "2h 26min",
+    "trailerLink": "https://www.youtube.com/watch?v=qo5jJpHtI1Y",
+    "thumbPath": "goodfellas.webp",
+    "categories": [
+      {
+        "name": "Biography"
+      },
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 8.7,
+    "synopsis": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate."
+  },
+  {
+    "id": 35,
+    "title": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "runningTime": "2h 28min",
+    "trailerLink": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "thumbPath": "inception.jpg",
+    "categories": [
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Sci-Fi"
+      }
+    ],
+    "imdbScore": 8.8,
+    "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+  },
+  {
+    "id": 36,
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "year": 1981,
+    "director": "Steven Spielberg",
+    "runningTime": "1h 55min",
+    "trailerLink": "https://www.youtube.com/watch?v=gz4crpFaW4M",
+    "thumbPath": "indiana-jones-and-the-raiders-of-the-lost-ark.jpg",
+    "categories": [
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Adventure"
+      }
+    ],
+    "imdbScore": 8.4,
+    "synopsis": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers."
+  },
+  {
+    "id": 37,
+    "title": "Jaws",
+    "year": 1975,
+    "director": "Steven Spielberg",
+    "runningTime": "2h 4min",
+    "trailerLink": "https://www.youtube.com/watch?v=U1fu_sA7XhE",
+    "thumbPath": "jaws.jpg",
+    "categories": [
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.0,
+    "synopsis": "When a killer shark unleashes chaos on a beach resort, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down."
+  },
+  {
+    "id": 38,
+    "title": "La Haine",
+    "year": 1995,
+    "director": "Mathieu Kassovitz",
+    "runningTime": "1h 38min",
+    "trailerLink": "https://www.youtube.com/watch?v=5pfRy-9ZB4A",
+    "thumbPath": "la-haine.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 8.1,
+    "synopsis": "24 hours in the lives of three young men in the French suburbs the day after a violent riot."
+  },
+  {
+    "id": 39,
+    "title": "Lost Highway",
+    "year": 1997,
+    "director": "David Lynch",
+    "runningTime": "2h 15min",
+    "trailerLink": "https://www.youtube.com/watch?v=wmRbNpR-Afs",
+    "thumbPath": "lost-highway.jpg",
+    "categories": [
+      {
+        "name": "Mystery"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 7.6,
+    "synopsis": "After a bizarre encounter at a party, a jazz saxophonist is framed for the murder of his wife and sent to prison, where he inexplicably morphs into a young mechanic and begins leading a new life."
+  },
+  {
+    "id": 40,
+    "title": "Magnolia",
+    "year": 1999,
+    "director": "Paul Thomas Anderson",
+    "runningTime": "3h 8min",
+    "trailerLink": "https://www.youtube.com/watch?v=XmKtV9HfYNs",
+    "thumbPath": "magnolia.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Romance"
+      }
+    ],
+    "imdbScore": 8.0,
+    "synopsis": "An epic mosaic of interrelated characters in search of love, forgiveness, and meaning in the San Fernando Valley."
+  },
+  {
+    "id": 41,
+    "title": "Memento",
+    "year": 2000,
+    "director": "Christopher Nolan",
+    "runningTime": "1h 53min",
+    "trailerLink": "https://www.youtube.com/watch?v=zgd0-VttkmA",
+    "thumbPath": "memento.jpg",
+    "categories": [
+      {
+        "name": "Mystery"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.4,
+    "synopsis": "A man with short-term memory loss attempts to track down his wife's murderer."
+  },
+  {
+    "id": 42,
+    "title": "Modern Times",
+    "year": 1936,
+    "director": "Charles Chaplin",
+    "runningTime": "1h 27min",
+    "trailerLink": "https://www.youtube.com/watch?v=3xvAEbIeWp4",
+    "thumbPath": "modern-times.jpg",
+    "categories": [
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Family"
+      }
+    ],
+    "imdbScore": 8.4,
+    "synopsis": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman."
+  },
+  {
+    "id": 43,
+    "title": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "director": "Terry Gilliam, Terry Jones",
+    "runningTime": "1h 31min",
+    "trailerLink": "https://www.youtube.com/watch?v=LG1PlkURjxE",
+    "thumbPath": "monthy-python-and-the-holy-grail.jpg",
+    "categories": [
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "Fantasy"
+      }
+    ],
+    "imdbScore": 8.2,
+    "synopsis": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles."
+  },
+  {
+    "id": 44,
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "director": "Ethan Coen, Joel Coen",
+    "runningTime": "2h 2min",
+    "trailerLink": "https://www.youtube.com/watch?v=38A__WT3-o0",
+    "thumbPath": "no-country-for-old-men.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.1,
+    "synopsis": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande."
+  },
+  {
+    "id": 45,
+    "title": "Once Upon a Time in America",
+    "year": 1984,
+    "director": "Sergio Leone",
+    "runningTime": "3h 49min",
+    "trailerLink": "https://www.youtube.com/watch?v=xWHZPzCgFIE",
+    "thumbPath": "once-upon-a-time-in-america.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 8.4,
+    "synopsis": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life."
+  },
+  {
+    "id": 46,
+    "title": "Once Upon a Time in the West",
+    "year": 1968,
+    "director": "Sergio Leone",
+    "runningTime": "2h 45min",
+    "trailerLink": "https://www.youtube.com/watch?v=4R4KqRUDpwY",
+    "thumbPath": "once-upon-a-time-in-the-west.jpg",
+    "categories": [
+      {
+        "name": "Western"
+      }
+    ],
+    "imdbScore": 8.5,
+    "synopsis": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad."
+  },
+  {
+    "id": 47,
+    "title": "Platoon",
+    "year": 1986,
+    "director": "Oliver Stone",
+    "runningTime": "2h",
+    "trailerLink": "https://www.youtube.com/watch?v=KztP7SKe0uk",
+    "thumbPath": "platoon.jpg",
+    "categories": [{ "name": "Drama" }, { "name": "War" }],
+    "imdbScore": 8.1,
+    "synopsis": "A young recruit in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man."
+  },
+  {
+    "id": 50,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "runningTime": "2h 34min",
+    "trailerLink": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+    "thumbPath": "pulp-fiction.jpeg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 8.9,
+    "synopsis": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+  },
+  {
+    "id": 51,
+    "title": "Raging Bull",
+    "year": 1980,
+    "director": "Martin Scorsese",
+    "runningTime": "2h 9min",
+    "trailerLink": "https://www.youtube.com/watch?v=YiVOwxsa4OM",
+    "thumbPath": "raging-bull.jpg",
+    "categories": [
+      {
+        "name": "Biography"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Sport"
+      }
+    ],
+    "imdbScore": 8.2,
+    "synopsis": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it."
+  },
+  {
+    "id": 52,
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "director": "Darren Aronofsky",
+    "runningTime": "1h 42min",
+    "trailerLink": "https://www.youtube.com/watch?v=lgo3Hb5vWLE",
+    "thumbPath": "requiem-for-a-dream.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.3,
+    "synopsis": "The drug-induced utopias of four Coney Island individuals are shattered when their addictions run deep."
+  },
+  {
+    "id": 53,
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "director": "Quentin Tarantino",
+    "runningTime": "1h 39min",
+    "trailerLink": "https://www.youtube.com/watch?v=vayksn4Y93A",
+    "thumbPath": "reservoir-dogs.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.3,
+    "synopsis": "After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant."
+  },
+  {
+    "id": 54,
+    "title": "Scarface",
+    "year": 1983,
+    "director": "Brian De Palma",
+    "runningTime": "2h 50min",
+    "trailerLink": "https://www.youtube.com/watch?v=7pQQHnqBa2E",
+    "thumbPath": "scarface.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 8.3,
+    "synopsis": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed."
+  },
+  {
+    "id": 55,
+    "title": "Schindler's List",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "runningTime": "3h 15min",
+    "trailerLink": "https://www.youtube.com/watch?v=gG22XNhtnoY",
+    "thumbPath": "schindler-s-list.jpg",
+    "categories": [
+      {
+        "name": "Biography"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "History"
+      }
+    ],
+    "imdbScore": 8.9,
+    "synopsis": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+  },
+  {
+    "id": 56,
+    "title": "Spirited Away",
+    "year": 2001,
+    "director": "Hayao Miyazaki",
+    "runningTime": "2h 5min",
+    "trailerLink": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
+    "thumbPath": "spirited-away.jpg",
+    "categories": [
+      {
+        "name": "Animation"
+      },
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Family"
+      }
+    ],
+    "imdbScore": 8.6,
+    "synopsis": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts."
+  },
+  {
+    "id": 57,
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "director": "George Lucas",
+    "runningTime": "2h 1min",
+    "trailerLink": "https://www.youtube.com/watch?v=1g3_CFmnU7k",
+    "thumbPath": "star-wars-a-new-hope.jpg",
+    "categories": [
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Fantasy"
+      }
+    ],
+    "imdbScore": 8.6,
+    "synopsis": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+  },
+  {
+    "id": 58,
+    "title": "Taxi Driver",
+    "year": 1976,
+    "director": "Martin Scorsese",
+    "runningTime": "1h 54min",
+    "trailerLink": "https://www.youtube.com/watch?v=sLpMx8_TYOo",
+    "thumbPath": "taxi-driver.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.3,
+    "synopsis": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute."
+  },
+  {
+    "id": 59,
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "director": "Joel Coen, Ethan Coen",
+    "runningTime": "1h 57min",
+    "trailerLink": "https://www.youtube.com/watch?v=cd-go0oBF4Y",
+    "thumbPath": "the-big-lebowski.jpg",
+    "categories": [
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Sport"
+      }
+    ],
+    "imdbScore": 8.1,
+    "synopsis": "Jeff 'The Dude' Leboswki, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it."
+  },
+  {
+    "id": 60,
+    "title": "The Deer Hunter",
+    "year": 1978,
+    "director": "Michael Cimino",
+    "runningTime": "3h 3min",
+    "trailerLink": "https://www.youtube.com/watch?v=Vd2ID5m_rZ8",
+    "thumbPath": "the-deer-hunter.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "War"
+      }
+    ],
+    "imdbScore": 8.1,
+    "synopsis": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania."
+  },
+  {
+    "id": 61,
+    "title": "The Godfather",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "runningTime": "2h 55min",
+    "trailerLink": "https://www.youtube.com/watch?v=sY1S34973zA",
+    "thumbPath": "the-godfather.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 9.2,
+    "synopsis": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 62,
+    "title": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "director": "Sergio Leone",
+    "runningTime": "2h 58min",
+    "trailerLink": "https://www.youtube.com/watch?v=13EUXqIwDkQ",
+    "thumbPath": "the-good-the-bad-and-the-ugly.jpg",
+    "categories": [
+      {
+        "name": "Western"
+      }
+    ],
+    "imdbScore": 8.8,
+    "synopsis": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+  },
+  {
+    "id": 63,
+    "title": "The Matrix",
+    "year": 1999,
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "runningTime": "2h 16min",
+    "trailerLink": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+    "thumbPath": "the-matrix.jpg",
+    "categories": [
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Sci-Fi"
+      }
+    ],
+    "imdbScore": 8.7,
+    "synopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+  },
+  {
+    "id": 64,
+    "title": "The Mission",
+    "year": 1986,
+    "director": "Roland Joffé",
+    "runningTime": "2h 5min",
+    "trailerLink": "https://www.youtube.com/watch?v=qTz5jAn-XX8",
+    "thumbPath": "the-mission.jpg",
+    "categories": [
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "History"
+      }
+    ],
+    "imdbScore": 7.4,
+    "synopsis": "18th-century Spanish Jesuits try to protect a remote South American tribe in danger of falling under the rule of pro-slavery Portugal."
+  },
+  {
+    "id": 65,
+    "title": "The Name of the Rose",
+    "year": 1986,
+    "director": "Jean-Jacques Annaud",
+    "runningTime": "2h 10min",
+    "trailerLink": "https://www.youtube.com/watch?v=KAtcRbQvW18",
+    "thumbPath": "the-name-of-the-rose.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Mystery"
+      }
+    ],
+    "imdbScore": 7.7,
+    "synopsis": "An intellectually nonconformist friar investigates a series of mysterious deaths in an isolated abbey."
+  },
+  {
+    "id": 66,
+    "title": "The Shining",
+    "year": 1980,
+    "director": "Stanley Kubrick",
+    "runningTime": "2h 26min",
+    "trailerLink": "https://www.youtube.com/watch?v=HEew7zvpAWE",
+    "thumbPath": "the-shining.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Horror"
+      }
+    ],
+    "imdbScore": 8.4,
+    "synopsis": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future."
+  },
+  {
+    "id": 67,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "director": "Jonathan Demme",
+    "runningTime": "1h 58min",
+    "trailerLink": "https://www.youtube.com/watch?v=ZWCAf-xLV2c",
+    "thumbPath": "the-silence-of-the-lambs.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.6,
+    "synopsis": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims."
+  },
+  {
+    "id": 68,
+    "title": "The Terminator",
+    "year": 1984,
+    "director": "James Cameron",
+    "runningTime": "1h 47min",
+    "trailerLink": "https://www.youtube.com/watch?v=k64P4l2Wmeg",
+    "thumbPath": "the-terminator.jpg",
+    "categories": [
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Sci-Fi"
+      }
+    ],
+    "imdbScore": 8.0,
+    "synopsis": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation."
+  },
+  {
+    "id": 69,
+    "title": "The Texas Chain Saw Massacre",
+    "year": 1974,
+    "director": "Tobe Hooper",
+    "runningTime": "1h 23min",
+    "trailerLink": "https://www.youtube.com/watch?v=Vs3981DoINw",
+    "thumbPath": "the-texas-chainsaw-massacre.jpg",
+    "categories": [
+      {
+        "name": "Horror"
+      }
+    ],
+    "imdbScore": 7.5,
+    "synopsis": "Two siblings and three of their friends en route to visit their grandfather's grave in Texas end up falling victim to a family of cannibalistic psychopaths and must survive the terrors of Leatherface and his family."
+  },
+  {
+    "id": 70,
+    "title": "The Thin Red Line",
+    "year": 1998,
+    "director": "Terrence Malick",
+    "runningTime": "2h 50min",
+    "trailerLink": "https://www.youtube.com/watch?v=ZpzjPtXQ2zU",
+    "thumbPath": "the-thin-red-line.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "War"
+      }
+    ],
+    "imdbScore": 7.6,
+    "synopsis": "Adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War."
+  },
+  {
+    "id": 71,
+    "title": "The Thing",
+    "year": 1982,
+    "director": "John Carpenter",
+    "runningTime": "1h 49min",
+    "trailerLink": "https://www.youtube.com/watch?v=5ftmr17M-a4",
+    "thumbPath": "the-thing.jpg",
+    "categories": [
+      {
+        "name": "Horror"
+      },
+      {
+        "name": "Mystery"
+      },
+      {
+        "name": "Sci-Fi"
+      }
+    ],
+    "imdbScore": 8.1,
+    "synopsis": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
+  },
+  {
+    "id": 72,
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "director": "Paul Thomas Anderson",
+    "runningTime": "2h 38min",
+    "trailerLink": "https://www.youtube.com/watch?v=FeSLPELpMeM",
+    "thumbPath": "there-will-be-blood.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Western"
+      }
+    ],
+    "imdbScore": 8.2,
+    "synopsis": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business."
+  },
+  {
+    "id": 73,
+    "title": "Trainspotting",
+    "year": 1996,
+    "director": "Danny Boyle",
+    "runningTime": "1h 33min",
+    "trailerLink": "https://www.youtube.com/watch?v=8LuxOYIpu-I",
+    "thumbPath": "trainspotting.jpg",
+    "categories": [
+      {
+        "name": "Drama"
+      }
+    ],
+    "imdbScore": 8.1,
+    "synopsis": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends."
+  },
+  {
+    "id": 74,
+    "title": "Underground",
+    "year": 1995,
+    "director": "Emir Kusturica",
+    "runningTime": "2h 50min",
+    "trailerLink": "https://www.youtube.com/watch?v=05e9uUqkYG4",
+    "thumbPath": "underground.jpg",
+    "categories": [
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "War"
+      }
+    ],
+    "imdbScore": 8.1,
+    "synopsis": "The story follows an underground weapons manufacturer in Belgrade during World War II and evolves into fairly surreal situations."
+  },
+  {
+    "id": 75,
+    "title": "V for Vendetta",
+    "year": 2005,
+    "director": "James McTeigue",
+    "runningTime": "2h 12min",
+    "trailerLink": "https://www.youtube.com/watch?v=qxyUl9M_7vc",
+    "thumbPath": "v-for-vendetta.jpg",
+    "categories": [
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Sci-Fi"
+      }
+    ],
+    "imdbScore": 8.2,
+    "synopsis": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of 'V', plots to overthrow it with the help of a young woman."
+  },
+  {
+    "id": 76,
+    "title": "Vertigo",
+    "year": 1958,
+    "director": "Alfred Hitchcock",
+    "runningTime": "2h 8min",
+    "trailerLink": "https://www.youtube.com/watch?v=Z5jK6OUmiTI",
+    "thumbPath": "vertigo.jpg",
+    "categories": [
+      {
+        "name": "Mystery"
+      },
+      {
+        "name": "Romance"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "imdbScore": 8.3,
+    "synopsis": "A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman."
+  },
+  {
+    "id": 77,
+    "title": "West Side Story",
+    "year": 1961,
+    "director": "Jerome Robbins, Robert Wise",
+    "runningTime": "2h 33min",
+    "trailerLink": "https://www.youtube.com/watch?v=1UkP9P1Dszw",
+    "thumbPath": "west-side-story.jpg",
+    "categories": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Musical"
+      }
+    ],
+    "imdbScore": 7.5,
+    "synopsis": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy."
+  },
+  {
+    "id": 78,
+    "title": "The Pianist",
+    "year": 2002,
+    "director": "Roman Polanski",
+    "runningTime": "2h 30min",
+    "trailerLink": "https://www.youtube.com/watch?v=BFwGqLa_oAo",
+    "thumbPath": "the-pianist.jpeg",
+    "categories": [
+      { "name": "Biography" },
+      { "name": "Drama" },
+      { "name": "Music" }
+    ],
+    "imdbScore": 8.5,
+    "synopsis": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II."
+  },
+  {
+    "id": 79,
+    "title": "Being John Malkovich",
+    "year": 1999,
+    "director": "Spike Jonze",
+    "runningTime": "1h 52min",
+    "trailerLink": "https://www.youtube.com/watch?v=OT0v7PwS2m0",
+    "thumbPath": "being-john-malkovich.jpg",
+    "categories": [
+      { "name": "Comedy" },
+      { "name": "Drama" },
+      { "name": "Fantasy" }
+    ],
+    "imdbScore": 7.7,
+    "synopsis": "A puppeteer discovers a portal that leads literally into the head of movie star John Malkovich."
+  }
+]
