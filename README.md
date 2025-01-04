@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## [Watch Before You Die](https://watchbeforeyoudie.com)
 
-## Getting Started
+This repository is the code behind [https://watchbeforeyoudie.com](https://watchbeforeyoudie.com) which publish a compilation of movies to watch before you die (no shit...).
 
-First, run the development server:
+> _No good movie is too long and no bad movie is short enough - Roger Ebert._
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+  <a href="https://watchbeforeyoudie.com/">
+    <img src="screenshot.png" alt="Watch Before You Die Screenshot" height="372">
+  </a>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Table of contents
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- [Movie submission](#movie-submission)
+- [Contribution](#contribution)
+- [Movies candidates](#movies-candidates)
+- [Still todo](#Still-todo)
+- [Licensing](#Licensing)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Movie submission
 
-## Learn More
+- Submissions of new movies are welcome by [creating an issue](https://github.com/ngermeau/watch_before_you_die/issues/new)
 
-To learn more about Next.js, take a look at the following resources:
+## Contribution
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- For any contributions (bugs, features requests...) just send a PR, or [create an issue](https://github.com/ngermeau/watch_before_you_die/issues/new)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Movies Candidates
 
-## Deploy on Vercel
+[] being john malkovish
+[] eternal sunshine of a spotless mind
+[] Alice in wonderland
+[] seven samourai
+[] stalker
+[] the wizard of oz
+[] The Umbrellas of Cherbourg
+[] le salaire de la peur
+[] persona
+[] 12 Angry Men
+[] ikuru
+[] dark city
+[] in the names of the father
+[] Children of Paradise
+[] Delicatessen
+[] Enter the Void
+[] The elephant man
+[] incendies
+[] Barton Fink
+[] Stranger Than Paradise
+[] burnt by the sun
+[] no man's land
+[] el topo
+[] the royal tenenbaums
+[] mississipi burning
+[] the swimming pool
+[] le ruban blanc
+[] uncle bonnmee
+[] bamako
+[] animal kingdom 
+[] the Truman show 
+[] the pianist 
+[] etnernal sunshine of a spotless mine
+[] la vita es bella
+[] amen
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Still todo
+[ ] Not super clean animation when loading of images
+[ ] Add Seo
+[ ] Snap to scroll for mobile
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Origins & License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Code and documentation copyright 2022. Code and documentation released under creativecommons.
