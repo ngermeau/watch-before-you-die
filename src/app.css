@@ -1,0 +1,39 @@
+@import 'tailwindcss';
+
+@theme {
+	--font-display: 'Poppins', 'sans-serif';
+	--color-background: #151515;
+	--color-title: #f4533f;
+	--color-text: #ebdbc2;
+	--animate-entrance: entrance 4s ease-in-out;
+	--animate-text-fade-in: txtFadeIn 1s ease-in-out;
+	--animate-image-fade-in: imgFadeIn 2s ease-in-out;
+
+	@keyframes entrance {
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	}
+
+	@keyframes txtFadeIn {
+		0% {
+			opacity: 0.4;
+		}
+		100%: {
+			opacity: 1;
+		}
+	}
+	
+	@keyframes imgFadeIn: {
+		0%: {
+			opacity: 0.4;
+		}
+		100%: {
+			opacity: 0.8;
+		}
+	}
+
+}

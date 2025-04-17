@@ -71,10 +71,3 @@ This repository is the code behind [https://watchbeforeyoudie.com](https://watch
 
 Code and documentation copyright 2022. Code and documentation released under creativecommons.
 
-## Todo
-[ ] wbyd: change the favicon and title
-[ ] wbyd: revamp about card with word of different size
-[ ] wbyd: create nice animation with processing at main title
-[ ] wbyd: not super clean animation when loading of images
-[ ] wbyd: add seo
-[
