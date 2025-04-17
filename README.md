@@ -28,46 +28,38 @@ This repository is the code behind [https://watchbeforeyoudie.com](https://watch
 
 ## Movies Candidates
 
-[] being john malkovish
-[] eternal sunshine of a spotless mind
-[] Alice in wonderland
-[] seven samourai
-[] stalker
-[] the wizard of oz
-[] The Umbrellas of Cherbourg
-[] le salaire de la peur
-[] persona
-[] 12 Angry Men
-[] ikuru
-[] dark city
-[] in the names of the father
-[] Children of Paradise
-[] Delicatessen
-[] Enter the Void
-[] The elephant man
-[] incendies
-[] Barton Fink
-[] Stranger Than Paradise
-[] burnt by the sun
-[] no man's land
-[] el topo
-[] the royal tenenbaums
-[] mississipi burning
-[] the swimming pool
-[] le ruban blanc
-[] uncle bonnmee
-[] bamako
-[] animal kingdom 
-[] the Truman show 
-[] the pianist 
-[] etnernal sunshine of a spotless mine
-[] la vita es bella
-[] amen
-
-
-## Origins & License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-Code and documentation copyright 2022. Code and documentation released under creativecommons.
-
+[] being john malkovish  
+[] eternal sunshine of a spotless mind  
+[] Alice in wonderland  
+[] seven samourai  
+[] stalker  
+[] the wizard of oz  
+[] The Umbrellas of Cherbourg  
+[] le salaire de la peur  
+[] persona  
+[] 12 Angry Men  
+[] ikuru  
+[] dark city  
+[] in the names of the father  
+[] Children of Paradise  
+[] Delicatessen  
+[] Enter the Void  
+[] The elephant man  
+[] incendies  
+[] Barton Fink  
+[] Stranger Than Paradise  
+[] burnt by the sun  
+[] no man's land  
+[] el topo  
+[] the royal tenenbaums  
+[] mississipi burning  
+[] the swimming pool  
+[] le ruban blanc  
+[] uncle bonnmee  
+[] bamako  
+[] animal kingdom   
+[] the Truman show   
+[] the pianist   
+[] etnernal sunshine of a spotless mine  
+[] la vita es bella  
+[] amen  
