@@ -1,65 +1,118 @@
-## [Watch Before You Die](https://watchbeforeyoudie.com)
-
-This repository is the code behind [https://watchbeforeyoudie.com](https://watchbeforeyoudie.com) which publish a compilation of movies to watch before you die (no shit...).
+# Watch Before You Die
 
 > _No good movie is too long and no bad movie is short enough - Roger Ebert._
 
+A curated compilation of essential films to watch before you die.
+
+**Live site:** [https://watchbeforeyoudie.com](https://watchbeforeyoudie.com)
+
 <p align="center">
   <a href="https://watchbeforeyoudie.com/">
-    <img src="screenshot.png" alt="Watch Before You Die Screenshot" height="372">
+    <img src="screenshot.png" alt="Watch Before You Die Screenshot" width="800">
   </a>
 </p>
 
-## Table of contents
+## Table of Contents
 
-- [Movie submission](#movie-submission)
+- [About](#about)
+- [Movie Submission](#movie-submission)
 - [Contribution](#contribution)
-- [Movies candidates](#movies-candidates)
-- [Still todo](#Still-todo)
-- [Licensing](#Licensing)
+- [Movie Candidates](#movie-candidates)
+- [Tech Stack](#tech-stack)
+- [Development](#development)
+- [License](#license)
 
-## Movie submission
+## About
 
-- Submissions of new movies are welcome by [creating an issue](https://github.com/ngermeau/watch_before_you_die/issues/new)
+This project showcases a carefully curated list of iconic and must-watch films from cinema history. Each movie is presented with its poster, year, runtime, and director information in a beautiful, responsive grid layout.
+
+## Movie Submission
+
+Have a movie that deserves to be on this list? Submissions are welcome!
+
+- [Create an issue](https://github.com/ngermeau/watch_before_you_die/issues/new) to suggest a new movie
+- Please include: movie title, year, director, and why it deserves to be on the list
 
 ## Contribution
 
-- For any contributions (bugs, features requests...) just send a PR, or [create an issue](https://github.com/ngermeau/watch_before_you_die/issues/new)
+Contributions are welcome! Whether it's bug fixes, feature requests, or improvements:
 
-## Movies Candidates
+- Send a Pull Request
+- [Create an issue](https://github.com/ngermeau/watch_before_you_die/issues/new)
 
-[] being john malkovish  
-[] eternal sunshine of a spotless mind  
-[] Alice in wonderland  
-[] seven samourai  
-[] stalker  
-[] the wizard of oz  
-[] The Umbrellas of Cherbourg  
-[] le salaire de la peur  
-[] persona  
-[] 12 Angry Men  
-[] ikuru  
-[] dark city  
-[] in the names of the father  
-[] Children of Paradise  
-[] Delicatessen  
-[] Enter the Void  
-[] The elephant man  
-[] incendies  
-[] Barton Fink  
-[] Stranger Than Paradise  
-[] burnt by the sun  
-[] no man's land  
-[] el topo  
-[] the royal tenenbaums  
-[] mississipi burning  
-[] the swimming pool  
-[] le ruban blanc  
-[] uncle bonnmee  
-[] bamako  
-[] animal kingdom   
-[] the Truman show   
-[] the pianist   
-[] etnernal sunshine of a spotless mine  
-[] la vita es bella  
-[] amen  
+## Movie Candidates
+
+Movies being considered for addition to the collection:
+
+- [ ] Being John Malkovich
+- [ ] Eternal Sunshine of the Spotless Mind
+- [ ] Alice in Wonderland
+- [ ] Seven Samurai
+- [ ] Stalker
+- [ ] The Wizard of Oz
+- [ ] The Umbrellas of Cherbourg
+- [ ] The Wages of Fear (Le Salaire de la Peur)
+- [ ] Persona
+- [ ] 12 Angry Men
+- [ ] Ikiru
+- [ ] Dark City
+- [ ] In the Name of the Father
+- [ ] Children of Paradise
+- [ ] Delicatessen
+- [ ] Enter the Void
+- [ ] The Elephant Man
+- [ ] Incendies
+- [ ] Barton Fink
+- [ ] Stranger Than Paradise
+- [ ] Burnt by the Sun
+- [ ] No Man's Land
+- [ ] El Topo
+- [ ] The Royal Tenenbaums
+- [ ] Mississippi Burning
+- [ ] The Swimming Pool
+- [ ] The White Ribbon (Le Ruban Blanc)
+- [ ] Uncle Boonmee Who Can Recall His Past Lives
+- [ ] Bamako
+- [ ] Animal Kingdom
+- [ ] The Truman Show
+- [ ] The Pianist
+- [ ] Life Is Beautiful (La Vita è Bella)
+- [ ] Amen
+
+## Tech Stack
+
+- **Framework:** [SvelteKit](https://kit.svelte.dev/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Language:** TypeScript
+- **Build Tool:** Vite
+
+## Development
+
+### Prerequisites
+
+- Node.js (v16 or higher)
+- npm or pnpm
+
+### Getting Started
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+```
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+Made with ❤️ for cinema lovers everywhere
