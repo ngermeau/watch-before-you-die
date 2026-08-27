@@ -6,9 +6,12 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "ng-app": {
+    "watch-before-you-die": {
       "projectType": "application",
-      "schematics": {},
+      "schematics": {
+        "@schematics/angular:service": { "type": "service" },
+        "@schematics/angular:component": { "type": "component" }
+      }
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -64,10 +67,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "ng-app:build:production"
+              "buildTarget": "watch-before-you-die:build:production"
             },
             "development": {
-              "buildTarget": "ng-app:build:development"
+              "buildTarget": "watch-before-you-die:build:development"
             }
           },
           "defaultConfiguration": "development"
