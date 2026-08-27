@@ -13,15 +13,6 @@ A curated compilation of essential films to watch before you die.
   </a>
 </p>
 
-## Table of Contents
-
-- [About](#about)
-- [Movie Candidates](#movie-candidates)
-
-## About
-
-This project showcases a carefully curated list of iconic and must-watch films from cinema history. Each movie is presented with its poster, year, runtime, and director information in a beautiful, responsive grid layout.
-
 ## Movie Candidates
 
 Movies being considered for addition to the collection:
