@@ -16,12 +16,7 @@ A curated compilation of essential films to watch before you die.
 ## Table of Contents
 
 - [About](#about)
-- [Movie Submission](#movie-submission)
-- [Contribution](#contribution)
 - [Movie Candidates](#movie-candidates)
-- [Tech Stack](#tech-stack)
-- [Development](#development)
-- [License](#license)
 
 ## About
 
@@ -70,7 +65,6 @@ Movies being considered for addition to the collection:
 ```bash
 # Install dependencies
 ng serve
-
 ```
 
 ## License

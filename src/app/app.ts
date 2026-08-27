@@ -18,6 +18,5 @@ export class App {
 
   constructor() {
     this.moviesList = this.moviesListService.getMovies();
-    console.log(this.moviesList)
   }
 }
