@@ -27,20 +27,6 @@ A curated compilation of essential films to watch before you die.
 
 This project showcases a carefully curated list of iconic and must-watch films from cinema history. Each movie is presented with its poster, year, runtime, and director information in a beautiful, responsive grid layout.
 
-## Movie Submission
-
-Have a movie that deserves to be on this list? Submissions are welcome!
-
-- [Create an issue](https://github.com/ngermeau/watch_before_you_die/issues/new) to suggest a new movie
-- Please include: movie title, year, director, and why it deserves to be on the list
-
-## Contribution
-
-Contributions are welcome! Whether it's bug fixes, feature requests, or improvements:
-
-- Send a Pull Request
-- [Create an issue](https://github.com/ngermeau/watch_before_you_die/issues/new)
-
 ## Movie Candidates
 
 Movies being considered for addition to the collection:
@@ -76,38 +62,15 @@ Movies being considered for addition to the collection:
 - [ ] Bamako
 - [ ] Animal Kingdom
 - [ ] The Truman Show
-- [ ] The Pianist
 - [ ] Life Is Beautiful (La Vita è Bella)
 - [ ] Amen
-
-## Tech Stack
-
-- **Framework:** [SvelteKit](https://kit.svelte.dev/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Language:** TypeScript
-- **Build Tool:** Vite
-
-## Development
-
-### Prerequisites
-
-- Node.js (v16 or higher)
-- npm or pnpm
 
 ### Getting Started
 
 ```bash
 # Install dependencies
-npm install
+ng serve
 
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Preview production build
-npm run preview
 ```
 
 ## License
