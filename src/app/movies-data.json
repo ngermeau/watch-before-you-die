@@ -6,7 +6,7 @@
     "director": "Stanley Kubrick",
     "runningTime": "2h 29min",
     "trailerLink": "https://www.youtube.com/watch?v=Z2UWOeBcsJI",
-    "thumbPath": "2001-a-space-odyssey.jpg",
+    "thumbPath": "2001-a-space-odyssey.webp",
     "categories": [
       {
         "name": "Adventure"
@@ -28,7 +28,7 @@
     "director": "John McTiernan",
     "runningTime": "2h 12min",
     "trailerLink": "https://www.youtube.com/watch?v=2TQ-pOvI6Xo",
-    "thumbPath": "Die-Hard.jpg",
+    "thumbPath": "Die-Hard.webp",
     "categories": [
       {
         "name": "Action"
@@ -47,7 +47,7 @@
     "director": "Sofia Coppola",
     "runningTime": "1h 42min",
     "trailerLink": "https://www.youtube.com/watch?v=W6iVPCRflQM",
-    "thumbPath": "Lost-in-Translation.jpg",
+    "thumbPath": "Lost-in-Translation.webp",
     "categories": [
       {
         "name": "Drama"
@@ -66,7 +66,7 @@
     "director": "Fritz Lang",
     "runningTime": "2h 33min",
     "trailerLink": "https://www.youtube.com/watch?v=ZSExdX0tds4",
-    "thumbPath": "Metropolis.jpg",
+    "thumbPath": "Metropolis.webp",
     "categories": [
       {
         "name": "Drama"
@@ -85,7 +85,7 @@
     "director": "John Sturges",
     "runningTime": "2h 52min",
     "trailerLink": "https://www.youtube.com/watch?v=rn9WMGZCgYY",
-    "thumbPath": "The-great-escape.jpg",
+    "thumbPath": "The-great-escape.webp",
     "categories": [
       {
         "name": "Adventure"
@@ -107,7 +107,7 @@
     "director": "Stanley Kubrick",
     "runningTime": "2h 16min",
     "trailerLink": "https://www.youtube.com/watch?v=SPRzm8ibDQ8",
-    "thumbPath": "a-clockwork-orange.jpg",
+    "thumbPath": "a-clockwork-orange.webp",
     "categories": [
       {
         "name": "Crime"
@@ -129,7 +129,7 @@
     "director": "Jacques Audiard",
     "runningTime": "2h 35min",
     "trailerLink": "https://www.youtube.com/watch?v=zN5Fbluu0YA",
-    "thumbPath": "a-prophet.jpg",
+    "thumbPath": "a-prophet.webp",
     "categories": [
       {
         "name": "Crime"
@@ -148,7 +148,7 @@
     "director": "Katsuhiro Otomo",
     "runningTime": "2h 4min",
     "trailerLink": "https://www.youtube.com/watch?v=7GqLr9InztE",
-    "thumbPath": "akira.jpg",
+    "thumbPath": "akira.webp",
     "categories": [
       {
         "name": "Animation"
@@ -170,7 +170,7 @@
     "director": "Ridley Scott",
     "runningTime": "1h 57min",
     "trailerLink": "https://www.youtube.com/watch?v=bEVY_lonKf4",
-    "thumbPath": "alien-1.jpg",
+    "thumbPath": "alien-1.webp",
     "categories": [
       {
         "name": "Horror"
@@ -189,7 +189,7 @@
     "director": "Milos Forman",
     "runningTime": "2h 40min",
     "trailerLink": "https://www.youtube.com/watch?v=yIzhAKtEzY0",
-    "thumbPath": "amadeus.jpg",
+    "thumbPath": "amadeus.webp",
     "categories": [
       {
         "name": "Biography"
@@ -211,7 +211,7 @@
     "director": "Mary Harron",
     "runningTime": "1h 41min",
     "trailerLink": "https://www.youtube.com/watch?v=2GIsExb5jJU",
-    "thumbPath": "american-psycho.jpg",
+    "thumbPath": "american-psycho.webp",
     "categories": [
       {
         "name": "Crime"
@@ -233,7 +233,7 @@
     "director": "Francis Ford Coppola",
     "runningTime": "2h 27min",
     "trailerLink": "https://www.youtube.com/watch?v=FTjG-Aux_yQ",
-    "thumbPath": "apocalypse-now.jpg",
+    "thumbPath": "apocalypse-now.webp",
     "categories": [
       {
         "name": "Drama"
@@ -252,7 +252,7 @@
     "director": "Percy Adlon",
     "runningTime": "1h 35min",
     "trailerLink": "https://www.youtube.com/watch?v=esHNTVW1sF0",
-    "thumbPath": "bagdad-cafe.jpg",
+    "thumbPath": "bagdad-cafe.webp",
     "categories": [
       {
         "name": "Comedy"
@@ -271,7 +271,7 @@
     "director": "Stanley Kubrick",
     "runningTime": "3h 4min",
     "trailerLink": "https://www.youtube.com/watch?v=MeGX4me0Y2c",
-    "thumbPath": "barry-lyndon.jpg",
+    "thumbPath": "barry-lyndon.webp",
     "categories": [
       {
         "name": "Adventure"
@@ -293,7 +293,7 @@
     "director": "Ridley Scott",
     "runningTime": "1h 57min",
     "trailerLink": "https://www.youtube.com/watch?v=eogpIG53Cis",
-    "thumbPath": "blade-runner.jpg",
+    "thumbPath": "blade-runner.webp",
     "categories": [
       {
         "name": "Sci-Fi"
@@ -312,7 +312,7 @@
     "director": "David Lynch",
     "runningTime": "2h 0min",
     "trailerLink": "https://www.youtube.com/watch?v=k_BybDB_phY",
-    "thumbPath": "blue-velvet.jpg",
+    "thumbPath": "blue-velvet.webp",
     "categories": [
       {
         "name": "Crime"
@@ -334,7 +334,7 @@
     "director": "Terry Gilliam",
     "runningTime": "2h 22min",
     "trailerLink": "https://www.youtube.com/watch?v=4Wh2b1eZFUM",
-    "thumbPath": "brazil.jpg",
+    "thumbPath": "brazil.webp",
     "categories": [
       {
         "name": "Drama"
@@ -353,7 +353,7 @@
     "director": "Lars von Trier",
     "runningTime": "2h 39min",
     "trailerLink": "https://www.youtube.com/watch?v=l6ZZZQjgJL0",
-    "thumbPath": "breaking-the-waves.jpg",
+    "thumbPath": "breaking-the-waves.webp",
     "categories": [
       {
         "name": "Drama"
@@ -372,7 +372,7 @@
     "director": "Michael Curtiz",
     "runningTime": "1h 42min",
     "trailerLink": "https://www.youtube.com/watch?v=BkL9l7qovsE",
-    "thumbPath": "casablanca.jpg",
+    "thumbPath": "casablanca.webp",
     "categories": [
       {
         "name": "Drama"
@@ -394,7 +394,7 @@
     "director": "Roman Polanski",
     "runningTime": "2h 10min",
     "trailerLink": "https://www.youtube.com/watch?v=3aifeXlnoqY",
-    "thumbPath": "chinatown.jpg",
+    "thumbPath": "chinatown.webp",
     "categories": [
       {
         "name": "Drama"
@@ -416,7 +416,7 @@
     "director": "Fernando Meirelles",
     "runningTime": "2h 10min",
     "trailerLink": "https://www.youtube.com/watch?v=ioUE_5wpg_E",
-    "thumbPath": "city-of-god.jpg",
+    "thumbPath": "city-of-god.webp",
     "categories": [
       {
         "name": "Crime"
@@ -435,7 +435,7 @@
     "director": "Kevin Smith",
     "runningTime": "1h 32min",
     "trailerLink": "https://www.youtube.com/watch?v=4cVCqkROLcQ",
-    "thumbPath": "clerks.jpg",
+    "thumbPath": "clerks.webp",
     "categories": [
       {
         "name": "Comedy"
@@ -454,7 +454,7 @@
     "director": "Wolfgang Petersen",
     "runningTime": "2h 29min",
     "trailerLink": "https://www.youtube.com/watch?v=GCj9E6fEihs",
-    "thumbPath": "das-boot.jpg",
+    "thumbPath": "das-boot.webp",
     "categories": [
       {
         "name": "Adventure"
@@ -476,7 +476,7 @@
     "director": "Jim Jarmusch",
     "runningTime": "2h 1min",
     "trailerLink": "https://www.youtube.com/watch?v=ct89Jvt6s4M",
-    "thumbPath": "deadman.jpg",
+    "thumbPath": "deadman.webp",
     "categories": [
       {
         "name": "Drama"
@@ -498,7 +498,7 @@
     "director": "Don Siegel",
     "runningTime": "1h 42min",
     "trailerLink": "https://www.youtube.com/watch?v=VExw77xJsAY",
-    "thumbPath": "dirty-harry.jpg",
+    "thumbPath": "dirty-harry.webp",
     "categories": [
       {
         "name": "Action"
@@ -520,7 +520,7 @@
     "director": "Stanley Kubrick",
     "runningTime": "1h 35min",
     "trailerLink": "https://www.youtube.com/watch?v=1gXY3kuDvSU",
-    "thumbPath": "dr-strangelove.jpg",
+    "thumbPath": "dr-strangelove.webp",
     "categories": [
       {
         "name": "Comedy"
@@ -539,7 +539,7 @@
     "director": "Dennis Hopper",
     "runningTime": "1h 35min",
     "trailerLink": "https://www.youtube.com/watch?v=Uf4g1DESH4M",
-    "thumbPath": "easy-rider.jpg",
+    "thumbPath": "easy-rider.webp",
     "categories": [
       {
         "name": "Adventure"
@@ -558,7 +558,7 @@
     "director": "David Lynch",
     "runningTime": "1h 29min",
     "trailerLink": "https://www.youtube.com/watch?v=dU7OqGCIcak",
-    "thumbPath": "eraserhead.jpg",
+    "thumbPath": "eraserhead.webp",
     "categories": [
       {
         "name": "Drama"
@@ -577,7 +577,7 @@
     "director": "Joel Coen, Ethan Coen",
     "runningTime": "1h 38min",
     "trailerLink": "https://www.youtube.com/watch?v=h2tY82z3xXU",
-    "thumbPath": "fargo.jpg",
+    "thumbPath": "fargo.webp",
     "categories": [
       {
         "name": "Crime"
@@ -599,7 +599,7 @@
     "director": "Terry Gilliam",
     "runningTime": "1h 58min",
     "trailerLink": "https://www.youtube.com/watch?v=0nU7dC9bIDg",
-    "thumbPath": "fear-and-loathing-in-las-vegas.jpg",
+    "thumbPath": "fear-and-loathing-in-las-vegas.webp",
     "categories": [
       {
         "name": "Adventure"
@@ -640,7 +640,7 @@
     "director": "Stanley Kubrick",
     "runningTime": "1h 56min",
     "trailerLink": "https://www.youtube.com/watch?v=x9f6JaaX7Wg",
-    "thumbPath": "full-metal-jacket.jpg",
+    "thumbPath": "full-metal-jacket.webp",
     "categories": [
       {
         "name": "Drama"
@@ -659,7 +659,7 @@
     "director": "Mamoru Oshii",
     "runningTime": "1h 23min",
     "trailerLink": "https://www.youtube.com/watch?v=p2MEaROKjaE",
-    "thumbPath": "ghost-in-the-shell.jpg",
+    "thumbPath": "ghost-in-the-shell.webp",
     "categories": [
       {
         "name": "Animation"
@@ -703,7 +703,7 @@
     "director": "Christopher Nolan",
     "runningTime": "2h 28min",
     "trailerLink": "https://www.youtube.com/watch?v=YoHD9XEInc0",
-    "thumbPath": "inception.jpg",
+    "thumbPath": "inception.webp",
     "categories": [
       {
         "name": "Action"
@@ -725,7 +725,7 @@
     "director": "Steven Spielberg",
     "runningTime": "1h 55min",
     "trailerLink": "https://www.youtube.com/watch?v=gz4crpFaW4M",
-    "thumbPath": "indiana-jones-and-the-raiders-of-the-lost-ark.jpg",
+    "thumbPath": "indiana-jones-and-the-raiders-of-the-lost-ark.webp",
     "categories": [
       {
         "name": "Action"
@@ -744,7 +744,7 @@
     "director": "Steven Spielberg",
     "runningTime": "2h 4min",
     "trailerLink": "https://www.youtube.com/watch?v=U1fu_sA7XhE",
-    "thumbPath": "jaws.jpg",
+    "thumbPath": "jaws.webp",
     "categories": [
       {
         "name": "Adventure"
@@ -763,7 +763,7 @@
     "director": "Mathieu Kassovitz",
     "runningTime": "1h 38min",
     "trailerLink": "https://www.youtube.com/watch?v=5pfRy-9ZB4A",
-    "thumbPath": "la-haine.jpg",
+    "thumbPath": "la-haine.webp",
     "categories": [
       {
         "name": "Crime"
@@ -782,7 +782,7 @@
     "director": "David Lynch",
     "runningTime": "2h 15min",
     "trailerLink": "https://www.youtube.com/watch?v=wmRbNpR-Afs",
-    "thumbPath": "lost-highway.jpg",
+    "thumbPath": "lost-highway.webp",
     "categories": [
       {
         "name": "Mystery"
@@ -801,7 +801,7 @@
     "director": "Paul Thomas Anderson",
     "runningTime": "3h 8min",
     "trailerLink": "https://www.youtube.com/watch?v=XmKtV9HfYNs",
-    "thumbPath": "magnolia.jpg",
+    "thumbPath": "magnolia.webp",
     "categories": [
       {
         "name": "Drama"
@@ -820,7 +820,7 @@
     "director": "Christopher Nolan",
     "runningTime": "1h 53min",
     "trailerLink": "https://www.youtube.com/watch?v=zgd0-VttkmA",
-    "thumbPath": "memento.jpg",
+    "thumbPath": "memento.webp",
     "categories": [
       {
         "name": "Mystery"
@@ -839,7 +839,7 @@
     "director": "Charles Chaplin",
     "runningTime": "1h 27min",
     "trailerLink": "https://www.youtube.com/watch?v=3xvAEbIeWp4",
-    "thumbPath": "modern-times.jpg",
+    "thumbPath": "modern-times.webp",
     "categories": [
       {
         "name": "Comedy"
@@ -861,7 +861,7 @@
     "director": "Terry Gilliam, Terry Jones",
     "runningTime": "1h 31min",
     "trailerLink": "https://www.youtube.com/watch?v=LG1PlkURjxE",
-    "thumbPath": "monthy-python-and-the-holy-grail.jpg",
+    "thumbPath": "monthy-python-and-the-holy-grail.webp",
     "categories": [
       {
         "name": "Adventure"
@@ -883,7 +883,7 @@
     "director": "Ethan Coen, Joel Coen",
     "runningTime": "2h 2min",
     "trailerLink": "https://www.youtube.com/watch?v=38A__WT3-o0",
-    "thumbPath": "no-country-for-old-men.jpg",
+    "thumbPath": "no-country-for-old-men.webp",
     "categories": [
       {
         "name": "Crime"
@@ -905,7 +905,7 @@
     "director": "Sergio Leone",
     "runningTime": "3h 49min",
     "trailerLink": "https://www.youtube.com/watch?v=xWHZPzCgFIE",
-    "thumbPath": "once-upon-a-time-in-america.jpg",
+    "thumbPath": "once-upon-a-time-in-america.webp",
     "categories": [
       {
         "name": "Crime"
@@ -924,7 +924,7 @@
     "director": "Sergio Leone",
     "runningTime": "2h 45min",
     "trailerLink": "https://www.youtube.com/watch?v=4R4KqRUDpwY",
-    "thumbPath": "once-upon-a-time-in-the-west.jpg",
+    "thumbPath": "once-upon-a-time-in-the-west.webp",
     "categories": [
       {
         "name": "Western"
@@ -940,7 +940,7 @@
     "director": "Oliver Stone",
     "runningTime": "2h",
     "trailerLink": "https://www.youtube.com/watch?v=KztP7SKe0uk",
-    "thumbPath": "platoon.jpg",
+    "thumbPath": "platoon.webp",
     "categories": [{ "name": "Drama" }, { "name": "War" }],
     "imdbScore": 8.1,
     "synopsis": "A young recruit in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man."
@@ -952,7 +952,7 @@
     "director": "Quentin Tarantino",
     "runningTime": "2h 34min",
     "trailerLink": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
-    "thumbPath": "pulp-fiction.jpeg",
+    "thumbPath": "pulp-fiction.webp",
     "categories": [
       {
         "name": "Crime"
@@ -971,7 +971,7 @@
     "director": "Martin Scorsese",
     "runningTime": "2h 9min",
     "trailerLink": "https://www.youtube.com/watch?v=YiVOwxsa4OM",
-    "thumbPath": "raging-bull.jpg",
+    "thumbPath": "raging-bull.webp",
     "categories": [
       {
         "name": "Biography"
@@ -993,7 +993,7 @@
     "director": "Darren Aronofsky",
     "runningTime": "1h 42min",
     "trailerLink": "https://www.youtube.com/watch?v=lgo3Hb5vWLE",
-    "thumbPath": "requiem-for-a-dream.jpg",
+    "thumbPath": "requiem-for-a-dream.webp",
     "categories": [
       {
         "name": "Drama"
@@ -1012,7 +1012,7 @@
     "director": "Quentin Tarantino",
     "runningTime": "1h 39min",
     "trailerLink": "https://www.youtube.com/watch?v=vayksn4Y93A",
-    "thumbPath": "reservoir-dogs.jpg",
+    "thumbPath": "reservoir-dogs.webp",
     "categories": [
       {
         "name": "Crime"
@@ -1034,7 +1034,7 @@
     "director": "Brian De Palma",
     "runningTime": "2h 50min",
     "trailerLink": "https://www.youtube.com/watch?v=7pQQHnqBa2E",
-    "thumbPath": "scarface.jpg",
+    "thumbPath": "scarface.webp",
     "categories": [
       {
         "name": "Crime"
@@ -1053,7 +1053,7 @@
     "director": "Steven Spielberg",
     "runningTime": "3h 15min",
     "trailerLink": "https://www.youtube.com/watch?v=gG22XNhtnoY",
-    "thumbPath": "schindler-s-list.jpg",
+    "thumbPath": "schindler-s-list.webp",
     "categories": [
       {
         "name": "Biography"
@@ -1075,7 +1075,7 @@
     "director": "Hayao Miyazaki",
     "runningTime": "2h 5min",
     "trailerLink": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
-    "thumbPath": "spirited-away.jpg",
+    "thumbPath": "spirited-away.webp",
     "categories": [
       {
         "name": "Animation"
@@ -1097,7 +1097,7 @@
     "director": "George Lucas",
     "runningTime": "2h 1min",
     "trailerLink": "https://www.youtube.com/watch?v=1g3_CFmnU7k",
-    "thumbPath": "star-wars-a-new-hope.jpg",
+    "thumbPath": "star-wars-a-new-hope.webp",
     "categories": [
       {
         "name": "Action"
@@ -1119,7 +1119,7 @@
     "director": "Martin Scorsese",
     "runningTime": "1h 54min",
     "trailerLink": "https://www.youtube.com/watch?v=sLpMx8_TYOo",
-    "thumbPath": "taxi-driver.jpg",
+    "thumbPath": "taxi-driver.webp",
     "categories": [
       {
         "name": "Crime"
@@ -1141,7 +1141,7 @@
     "director": "Joel Coen, Ethan Coen",
     "runningTime": "1h 57min",
     "trailerLink": "https://www.youtube.com/watch?v=cd-go0oBF4Y",
-    "thumbPath": "the-big-lebowski.jpg",
+    "thumbPath": "the-big-lebowski.webp",
     "categories": [
       {
         "name": "Comedy"
@@ -1163,7 +1163,7 @@
     "director": "Michael Cimino",
     "runningTime": "3h 3min",
     "trailerLink": "https://www.youtube.com/watch?v=Vd2ID5m_rZ8",
-    "thumbPath": "the-deer-hunter.jpg",
+    "thumbPath": "the-deer-hunter.webp",
     "categories": [
       {
         "name": "Drama"
@@ -1182,7 +1182,7 @@
     "director": "Francis Ford Coppola",
     "runningTime": "2h 55min",
     "trailerLink": "https://www.youtube.com/watch?v=sY1S34973zA",
-    "thumbPath": "the-godfather.jpg",
+    "thumbPath": "the-godfather.webp",
     "categories": [
       {
         "name": "Crime"
@@ -1201,7 +1201,7 @@
     "director": "Sergio Leone",
     "runningTime": "2h 58min",
     "trailerLink": "https://www.youtube.com/watch?v=13EUXqIwDkQ",
-    "thumbPath": "the-good-the-bad-and-the-ugly.jpg",
+    "thumbPath": "the-good-the-bad-and-the-ugly.webp",
     "categories": [
       {
         "name": "Western"
@@ -1217,7 +1217,7 @@
     "director": "Lana Wachowski, Lilly Wachowski",
     "runningTime": "2h 16min",
     "trailerLink": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
-    "thumbPath": "the-matrix.jpg",
+    "thumbPath": "the-matrix.webp",
     "categories": [
       {
         "name": "Action"
@@ -1236,7 +1236,7 @@
     "director": "Roland Joffé",
     "runningTime": "2h 5min",
     "trailerLink": "https://www.youtube.com/watch?v=qTz5jAn-XX8",
-    "thumbPath": "the-mission.jpg",
+    "thumbPath": "the-mission.webp",
     "categories": [
       {
         "name": "Adventure"
@@ -1258,7 +1258,7 @@
     "director": "Jean-Jacques Annaud",
     "runningTime": "2h 10min",
     "trailerLink": "https://www.youtube.com/watch?v=KAtcRbQvW18",
-    "thumbPath": "the-name-of-the-rose.jpg",
+    "thumbPath": "the-name-of-the-rose.webp",
     "categories": [
       {
         "name": "Crime"
@@ -1280,7 +1280,7 @@
     "director": "Stanley Kubrick",
     "runningTime": "2h 26min",
     "trailerLink": "https://www.youtube.com/watch?v=HEew7zvpAWE",
-    "thumbPath": "the-shining.jpg",
+    "thumbPath": "the-shining.webp",
     "categories": [
       {
         "name": "Drama"
@@ -1299,7 +1299,7 @@
     "director": "Jonathan Demme",
     "runningTime": "1h 58min",
     "trailerLink": "https://www.youtube.com/watch?v=ZWCAf-xLV2c",
-    "thumbPath": "the-silence-of-the-lambs.jpg",
+    "thumbPath": "the-silence-of-the-lambs.webp",
     "categories": [
       {
         "name": "Crime"
@@ -1321,7 +1321,7 @@
     "director": "James Cameron",
     "runningTime": "1h 47min",
     "trailerLink": "https://www.youtube.com/watch?v=k64P4l2Wmeg",
-    "thumbPath": "the-terminator.jpg",
+    "thumbPath": "the-terminator.webp",
     "categories": [
       {
         "name": "Action"
@@ -1340,7 +1340,7 @@
     "director": "Tobe Hooper",
     "runningTime": "1h 23min",
     "trailerLink": "https://www.youtube.com/watch?v=Vs3981DoINw",
-    "thumbPath": "the-texas-chainsaw-massacre.jpg",
+    "thumbPath": "the-texas-chainsaw-massacre.webp",
     "categories": [
       {
         "name": "Horror"
@@ -1356,7 +1356,7 @@
     "director": "Terrence Malick",
     "runningTime": "2h 50min",
     "trailerLink": "https://www.youtube.com/watch?v=ZpzjPtXQ2zU",
-    "thumbPath": "the-thin-red-line.jpg",
+    "thumbPath": "the-thin-red-line.webp",
     "categories": [
       {
         "name": "Drama"
@@ -1375,7 +1375,7 @@
     "director": "John Carpenter",
     "runningTime": "1h 49min",
     "trailerLink": "https://www.youtube.com/watch?v=5ftmr17M-a4",
-    "thumbPath": "the-thing.jpg",
+    "thumbPath": "the-thing.webp",
     "categories": [
       {
         "name": "Horror"
@@ -1397,7 +1397,7 @@
     "director": "Paul Thomas Anderson",
     "runningTime": "2h 38min",
     "trailerLink": "https://www.youtube.com/watch?v=FeSLPELpMeM",
-    "thumbPath": "there-will-be-blood.jpg",
+    "thumbPath": "there-will-be-blood.webp",
     "categories": [
       {
         "name": "Drama"
@@ -1416,7 +1416,7 @@
     "director": "Danny Boyle",
     "runningTime": "1h 33min",
     "trailerLink": "https://www.youtube.com/watch?v=8LuxOYIpu-I",
-    "thumbPath": "trainspotting.jpg",
+    "thumbPath": "trainspotting.webp",
     "categories": [
       {
         "name": "Drama"
@@ -1432,7 +1432,7 @@
     "director": "Emir Kusturica",
     "runningTime": "2h 50min",
     "trailerLink": "https://www.youtube.com/watch?v=05e9uUqkYG4",
-    "thumbPath": "underground.jpg",
+    "thumbPath": "underground.webp",
     "categories": [
       {
         "name": "Comedy"
@@ -1454,7 +1454,7 @@
     "director": "James McTeigue",
     "runningTime": "2h 12min",
     "trailerLink": "https://www.youtube.com/watch?v=qxyUl9M_7vc",
-    "thumbPath": "v-for-vendetta.jpg",
+    "thumbPath": "v-for-vendetta.webp",
     "categories": [
       {
         "name": "Action"
@@ -1476,7 +1476,7 @@
     "director": "Alfred Hitchcock",
     "runningTime": "2h 8min",
     "trailerLink": "https://www.youtube.com/watch?v=Z5jK6OUmiTI",
-    "thumbPath": "vertigo.jpg",
+    "thumbPath": "vertigo.webp",
     "categories": [
       {
         "name": "Mystery"
@@ -1498,7 +1498,7 @@
     "director": "Jerome Robbins, Robert Wise",
     "runningTime": "2h 33min",
     "trailerLink": "https://www.youtube.com/watch?v=1UkP9P1Dszw",
-    "thumbPath": "west-side-story.jpg",
+    "thumbPath": "west-side-story.webp",
     "categories": [
       {
         "name": "Crime"
@@ -1520,7 +1520,7 @@
     "director": "Roman Polanski",
     "runningTime": "2h 30min",
     "trailerLink": "https://www.youtube.com/watch?v=BFwGqLa_oAo",
-    "thumbPath": "the-pianist.jpeg",
+    "thumbPath": "the-pianist.webp",
     "categories": [
       { "name": "Biography" },
       { "name": "Drama" },
@@ -1536,7 +1536,7 @@
     "director": "Spike Jonze",
     "runningTime": "1h 52min",
     "trailerLink": "https://www.youtube.com/watch?v=OT0v7PwS2m0",
-    "thumbPath": "being-john-malkovich.jpg",
+    "thumbPath": "being-john-malkovich.webp",
     "categories": [
       { "name": "Comedy" },
       { "name": "Drama" },
