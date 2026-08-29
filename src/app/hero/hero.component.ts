@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, signal } from '@angular/core';
 
 @Component({
   selector: 'app-hero',
@@ -7,9 +7,9 @@ import { Component } from '@angular/core';
   styleUrl: './hero.component.css',
 })
 export class HeroComponent {
-  isVisible: boolean = true;
+  isVisible = signal(true);
 
   toggleVisibility() {
-    this.isVisible = !this.isVisible;
+    this.isVisible.update((value) => !value);
   }
 }
